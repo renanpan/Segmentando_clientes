@@ -6,3 +6,5 @@ dataset/before treatment/ecommerce_dataset_us.xls
 descartes.ipynb
 pontos_do_projeto
 ecommerce_tableau.csv
+categ_per_prod.csv
+transac_per_user.csv
