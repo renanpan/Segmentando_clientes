@@ -1,6 +1,6 @@
 # Projeto de segmentação de clientes
 
-Nesse projeto (Segmentando_clientes) abordei diferentes conteúdos vistos ao longo do bootcamp de análise de dados. Dentre eles posso destacar:
+Nesse projeto (Segmentando_clientes) abordei diferentes conteúdos vistos ao longo dos 7 meses do bootcamp de análise de dados. Dentre eles posso destacar:
 - O tratamento e análise exploratória dos dados;
 - A união de dataframes para trabalhar com os dados;
 - Análise de Coorte para entender o perfil e de compras dos usuários;
