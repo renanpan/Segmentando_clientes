@@ -1,6 +1,6 @@
 # Projeto de segmentação de clientes
 
-Nesse projeto (Segmentando_clientes) abordei diferentes conteúdos vistos ao longo do bootcamp de análise de dados. Dentre eles posso destacar:
+Nesse projeto (Segmentando_clientes) abordei diferentes conteúdos vistos ao longo dos 7 meses do bootcamp de análise de dados. Dentre eles posso destacar:
 - O tratamento e análise exploratória dos dados;
 - A união de dataframes para trabalhar com os dados;
 - Análise de Coorte para entender o perfil e de compras dos usuários;
@@ -8,7 +8,7 @@ Nesse projeto (Segmentando_clientes) abordei diferentes conteúdos vistos ao lon
     - RFM (reincidence, frequency, monetary) [usada para segmentação de clientes em lojas virtuais];
     - E por produtos e categorias mais comprados;
     
-Com base nas análises realizadas as principais conclusões do projeto são:
+## Com base nas análises realizadas as principais conclusões do projeto são:
 
 Análise de coorte:
 - A análise de coorte dos gastos por usuário nos mostra que na maioria dos casos há um gasto maior no início, tendendo a redução com o passar do tempo a qual se mantém em um padrão de valores.
