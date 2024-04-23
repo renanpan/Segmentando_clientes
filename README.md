@@ -1,6 +1,8 @@
 # Projeto de segmentação de clientes
 
-Nesse projeto (Segmentando_clientes) abordei diferentes conteúdos vistos ao longo dos 7 meses do bootcamp de análise de dados. Dentre eles posso destacar:
+Todos as informações e análises realizadas estão disponíveis no arquivo Segmentando_clientes que pode ser aberto no jupyter notebook
+
+Nesse projeto abordei diferentes conteúdos vistos ao longo dos 7 meses do bootcamp de análise de dados. Dentre eles posso destacar:
 - O tratamento e análise exploratória dos dados;
 - A união de dataframes para trabalhar com os dados;
 - Análise de Coorte para entender o perfil e de compras dos usuários;
