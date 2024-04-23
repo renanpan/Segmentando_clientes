@@ -8,7 +8,7 @@ Nesse projeto (Segmentando_clientes) abordei diferentes conteúdos vistos ao lon
     - RFM (reincidence, frequency, monetary) [usada para segmentação de clientes em lojas virtuais];
     - E por produtos e categorias mais comprados;
     
-Com base nas análises realizadas as principais conclusões do projeto são:
+## Com base nas análises realizadas as principais conclusões do projeto são:
 
 Análise de coorte:
 - A análise de coorte dos gastos por usuário nos mostra que na maioria dos casos há um gasto maior no início, tendendo a redução com o passar do tempo a qual se mantém em um padrão de valores.
